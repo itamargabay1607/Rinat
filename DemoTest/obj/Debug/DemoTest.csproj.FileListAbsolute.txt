@@ -1,0 +1,7 @@
+C:\py\Git prod\calctestpg-main\DemoTest\bin\Debug\DemoTest.exe.config
+C:\py\Git prod\calctestpg-main\DemoTest\bin\Debug\DemoTest.exe
+C:\py\Git prod\calctestpg-main\DemoTest\bin\Debug\DemoTest.pdb
+C:\py\Git prod\calctestpg-main\DemoTest\obj\Debug\DemoTest.csprojAssemblyReference.cache
+C:\py\Git prod\calctestpg-main\DemoTest\obj\Debug\DemoTest.csproj.CoreCompileInputs.cache
+C:\py\Git prod\calctestpg-main\DemoTest\obj\Debug\DemoTest.exe
+C:\py\Git prod\calctestpg-main\DemoTest\obj\Debug\DemoTest.pdb
